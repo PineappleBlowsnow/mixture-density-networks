@@ -1,6 +1,10 @@
-# Mixture Density Networks and Gated Dual Experts
+# Modeling Multimodal Regression with Mixture Density Networks
 
-A collaborative MVA Probabilistic Graphical Models course project by **Ying JIN and Gloire LINVANI**, exploring conditional density estimation with Mixture Density Networks (MDNs) and a gated two-expert model.
+**MVA course — Probabilistic Graphical Models**
+
+When one input has several plausible outputs, predicting a single mean can miss the structure of the data. This joint project by **Ying JIN and Gloire LINVANI** models the full conditional distribution with Mixture Density Networks (MDNs) and compares them with a gated two-expert model.
+
+**My contribution.** I designed and ran experiments 2–4, implemented GatedDual, and contributed to the theoretical framing and analysis. Start with [experiment 4](exp4.py) for the gated-expert comparison and the [report](report.pdf) for results and figures.
 
 ## Research questions
 
@@ -45,3 +49,6 @@ For this portfolio package, all Python files were successfully parsed for syntax
 ## Reuse
 
 The original final submission did not include an explicit software license. No new license is asserted by this packaging step. Preserve both authors' credit and consult them before redistributing or relicensing their work.
+
+
+[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
