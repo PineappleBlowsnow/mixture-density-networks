@@ -51,4 +51,4 @@ For this portfolio package, all Python files were successfully parsed for syntax
 The original final submission did not include an explicit software license. No new license is asserted by this packaging step. Preserve both authors' credit and consult them before redistributing or relicensing their work.
 
 
-[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
+[Back to Ying Jin's project directory](https://github.com/PineappleBlowsnow#mva-projects)
